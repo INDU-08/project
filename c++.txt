@@ -9,3 +9,10 @@ print ("town");
 
 }
 
+else
+  {
+  print {age};
+  print (blood group);
+}
+}
+
